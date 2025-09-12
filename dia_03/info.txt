@@ -1,0 +1,22 @@
+# 📘 Día 3: Añadir etiquetas (`Label`) en Tkinter
+
+En esta lección aprendemos a utilizar el widget "Label" de Tkinter para mostrar texto en nuestras interfaces gráficas. 
+Las etiquetas son fundamentales para comunicar información al usuario, mostrar títulos, instrucciones o cualquier contenido estático.
+
+## 🎯 Objetivos del día
+
+- Crear etiquetas básicas con texto.
+- Personalizar el estilo de las etiquetas (fuente, color, tamaño).
+- Aplicar espaciado con `padx`, `pady`.
+
+## 🧪 Contenidos de hoy
+
+* dia_03.py: Este es el código completo de las prácticas de hoy
+* etiquetas.py: Archivo donde muestra a crear etiquetas básicas con [Label]
+* etiquetas_peronalizadas.py: Ahora en este archivo personalizamos los texto con tamaño, fuente, color, fondo, espaciado.
+## ▶️ Cómo ejecutar
+
+Desde la terminal o PowerShell, ejecuta:
+
+```bash
+python dia_03/etiquetas_label.py

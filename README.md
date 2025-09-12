@@ -8,6 +8,8 @@ Cada día se implementa desarrollo un proyecto o práctica distinta para mejorar
 A medida que se valla progresando, se emplearan las prácticas aprendidas para resolver ejercicios y problemas.
 Los días de ejercicios y problemas pueden variar, no habrá un día fijo.
 
+![100 Días Tkinter](docs/screenshots/main_screen.png)
+
 ---
 
 ## 📆 Progreso, Primero 10 días
