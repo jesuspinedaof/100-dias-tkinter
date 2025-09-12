@@ -16,7 +16,7 @@ Los días de ejercicios y problemas pueden variar, no habrá un día fijo.
 
 - ✅ Día 1: Hola Mundo con Tkinter
 - ✅ Día 2: Ventana básica
-- 🔲 Día 3: Etiquetas
+- ✅ Día 3: Etiquetas
 - 🔲 Día 4: Botones y eventos
 - 🔲 Día 5: Campos de entrada
 - 🔲 Día 6: Text multilinea y scroll
