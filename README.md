@@ -50,10 +50,10 @@ python hola_mundo.py
 ### Tambien puedes ver prácticas, ejercicios y videos en Redes
 
 #### 100 Días Tkinter
-*YouTube:
+* YouTube:
 https://www.youtube.com/playlist?list=PLaZLND08hkc_m9VjyImLZOMIo67SnXNOV
 
-*Facebook:
+* Facebook:
 https://www.facebook.com/media/set?vanity=Tuamigoprogramador&set=a.798338549798652 
 
 ---
@@ -62,8 +62,8 @@ https://www.facebook.com/media/set?vanity=Tuamigoprogramador&set=a.7983385497986
 
 Si tiene alguna idea de cómo mejorar esto. Somos todo oído... Cualquier duda o error puede compartir la información.
 ¿Quieres atribuir u colaborar?, Para informar cualquier de estas al:
-*tornioficial@gmail.com
-*https://wa.me/584160601607
+* tornioficial@gmail.com
+* https://wa.me/584160601607
 
 ---
 
