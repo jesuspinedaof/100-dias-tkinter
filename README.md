@@ -1,9 +1,9 @@
-# 🐍 100 Días de Tkinter
-Proyecto o guía ha sido desarrollado con fines edúcativos y de orientación
-a principiantes en Tkinter.
+# 100 Días de Tkinter
+100 Días en Tkinter es un proyecto o guía, que ha sido desarrollado con fines edúcativos y de orientación
+a principiantes en el mundo de la programación.
 
 Este repositorio contiene el proyecto de **100 días programando con Tkinter** o **Tkinter de 0 a 100%** en Python. 
-Cada día se implementa desarrollo un proyecto o práctica distinta para mejorar las habilidades en interfaces gráficas.
+Cada día se implementa prácticas, ejercicios y ejemplos distintos para aprender las habilidades en interfaces gráficas.
 
 A medida que se valla progresando, se emplearan las prácticas aprendidas para resolver ejercicios y problemas.
 Los días de ejercicios y problemas pueden variar, no habrá un día fijo.
@@ -34,11 +34,53 @@ Tkinter (ya viene instalado con Python en la mayoría de sistemas)
 
 ---
 
-## 🚀 Cómo usar
+## ¿Cómo usar?
 
-Clona este repositorio y entra en la carpeta del día que quieras probar:
+Puedes descargar el codígo del día que quieras usar...
+O clona este repositorio y entra en la carpeta del día que quieras probar:
 
 ```bash
 git clone https://github.com/jesuspinedaof/100-dias-tkinter.git
 cd 100-dias-tkinter/dia_01
 python hola_mundo.py
+```
+
+---
+
+### Tambien puedes ver prácticas, ejercicios y videos en Redes
+
+#### 100 Días Tkinter
+*YouTube:
+https://www.youtube.com/playlist?list=PLaZLND08hkc_m9VjyImLZOMIo67SnXNOV
+
+*Facebook:
+https://www.facebook.com/media/set?vanity=Tuamigoprogramador&set=a.798338549798652 
+
+---
+
+### Contribuyendo
+
+Si tiene alguna idea de cómo mejorar esto. Somos todo oído... Cualquier duda o error puede compartir la información.
+¿Quieres atribuir u colaborar?, Para informar cualquier de estas al:
+*tornioficial@gmail.com
+*https://wa.me/584160601607
+
+---
+
+### Documentación de librerías utilizadas
+
+#### Python Documentación
+https://docs.python.org/3/
+#### Python Tkinter docs
+https://docs.python.org/es/3/library/tkinter.html
+
+
+---
+
+## Licencia
+
+FreeBSD
+
+Derechos de autor (c) 2025 - Jesús Pineda
+
+---
