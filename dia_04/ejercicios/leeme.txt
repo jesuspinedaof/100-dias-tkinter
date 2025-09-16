@@ -1,0 +1,24 @@
+-------------------------------------------------------------
+Ejercicios prácticos para mejorar las habilidades aprendidas
+
+#1. Hacer un contador de clicks 
+
+Resolver: 
+    1. Hacer una ventana con la resolución personalizada
+    2. Crear un texto numerico utilizado como contador
+    3. Asignar a un boton una función que incremente el contador
+________________________________________________________________
+
+#2. Crear 3 botones que modifiquen el color de un texto
+
+Resolver:
+    1. Hacer una ventana con texto de colores personalizados
+    2. Crear funciones que modifiquen el valor del color del texto
+    3. Asignar a un boton que ejecute la funcion del cambio de color
+
+Pista: Usar [fg=""] en las funciones para cambiar el color
+-----------------------------------------------------------------
+
+(OPCIONAL)
+Enviar Ejercicios a los medios de comunicación para ser revisados,
+los mas creativos saldrán en Github...
