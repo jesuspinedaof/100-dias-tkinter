@@ -1,2 +1,2 @@
 Python 3
-Tkinter (ya viene instalado con Python en la mayoría de sistemas)
+Tkinter

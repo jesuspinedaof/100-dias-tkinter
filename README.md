@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
+[![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](#-contribuciones)  
 # 100 Días de Tkinter
 100 Días en Tkinter es un proyecto o guía, que ha sido desarrollado con fines edúcativos y de orientación
 a principiantes en el mundo de la programación.
@@ -18,7 +20,7 @@ Los días de ejercicios y problemas pueden variar, no habrá un día fijo.
 - ✅ Día 2: Ventana básica
 - ✅ Día 3: Etiquetas
 - ✅ Día 4: Botones y eventos
-- 🔲 Día 5: Campos de entrada
+- ✅ Día 5: Campos de entrada
 - 🔲 Día 6: Text multilinea y scroll
 - 🔲 Día 7: Frame y organización básica
 - 🔲 Día 8: Sistema de layout - Pack,Grid,Place
@@ -29,8 +31,8 @@ Los días de ejercicios y problemas pueden variar, no habrá un día fijo.
 ---
 
 ## Requerimientos
-Python 3 (O superior)
-Tkinter (ya viene instalado con Python en la mayoría de sistemas)
+- Python 3 (O superior).
+- Tkinter (ya viene instalado con Python en la mayoría de sistemas)
 
 ---
 
@@ -79,7 +81,7 @@ https://docs.python.org/es/3/library/tkinter.html
 
 ## Licencia
 
-FreeBSD
+MIT
 
 Derechos de autor (c) 2025 - Jesús Pineda
 

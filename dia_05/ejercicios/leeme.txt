@@ -1,0 +1,33 @@
+-------------------------------------------------------------
+Ejercicios prácticos para mejorar las habilidades aprendidas
+
+#1. Hacer una calculadora básica
+
+Resolver: 
+    1. Hacer una ventana con la resolución personalizada
+    2. crear una funcion que calcule la operación de 2 numeros
+    3. Asignar un boton a ejecutar la función
+    4. Mostrar el resultado:
+        • En consola
+        • Ventana emergente
+________________________________________________________________
+
+#2. Sugerencias al pulsar un botón
+
+Resolver:
+    1. Hacer una ventana personalizada
+    2. Crear una lista con las sugerencias
+    3. Crear una función que muestre las sugerencias que coincidan con el dato escrito.
+    4. Mostrar las sugerencias:
+        • En consola
+        • Ventana emergente
+        • Parte inferior de la pantalla
+
+Pista:
+    Usar (Entry.get()) para obtener los datos de la entrada.
+    Usar (for item in sugerencias) para mostrar las sugerencias.
+-----------------------------------------------------------------
+
+(OPCIONAL)
+Enviar Ejercicios a los medios de comunicación para ser revisados,
+los mas creativos saldrán en Github...
